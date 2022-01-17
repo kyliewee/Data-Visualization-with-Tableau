@@ -1,5 +1,5 @@
 # Data Visualization with Tableau
-- Tableau Public: https://public.tableau.com/app/profile/kylie.lee
+- Tableau Public: https://public.tableau.com/app/profile/kylie.lee (Analysis of TB(Tuberculosis) Cases - 1, 2)
 
 ## Goal of the project
 - Review the data set, analyze the variables, and identify any relation among them
